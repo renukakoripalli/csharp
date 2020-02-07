@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Dell\source\repos\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Dell\source\repos\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Dell\source\repos\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Dell\source\repos\ConsoleApp\obj\Debug\ConsoleApp.pdb

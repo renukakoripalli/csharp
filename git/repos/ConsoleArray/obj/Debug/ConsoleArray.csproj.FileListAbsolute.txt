@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ConsoleArray\bin\Debug\ConsoleArray.exe.config
+C:\Users\Dell\source\repos\ConsoleArray\bin\Debug\ConsoleArray.exe
+C:\Users\Dell\source\repos\ConsoleArray\bin\Debug\ConsoleArray.pdb
+C:\Users\Dell\source\repos\ConsoleArray\obj\Debug\ConsoleArray.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleArray\obj\Debug\ConsoleArray.exe
+C:\Users\Dell\source\repos\ConsoleArray\obj\Debug\ConsoleArray.pdb

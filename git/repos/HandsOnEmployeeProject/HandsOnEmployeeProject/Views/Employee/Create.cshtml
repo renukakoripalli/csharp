@@ -1,0 +1,43 @@
+﻿@model HandsOnEmployeeProject.Models.Employee
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+@using (Html.BeginForm())
+   
+{
+<table class="table">
+    <tr>
+        <td>EmpName</td>
+        <td>@Html.TextBoxFor(m => m.EmpName)</td>
+    </tr>
+
+    <tr>
+        <td>EId</td>
+        <td>@Html.TextBoxFor(m => m.EId)</td>
+    </tr>
+
+    <tr>
+        <td>Designation</td>
+        <td>@Html.DropDownListFor(m => m.Designation, ViewBag.Designation as SelectList)</td>
+    </tr>
+    <tr>
+        <td>ProjectName</td>
+        <td>@Html.DropDownListFor(m => m.Projectname, ViewBag.ProjectName as SelectList)</td>
+    </tr>
+
+    <tr>
+        <td>Password</td>
+        <td>@Html.Password("Pwd")</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <input type="submit" value="Register" />
+        </td>
+    </tr>
+
+</table>
+}
+

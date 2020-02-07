@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DemoDeligate1\bin\Debug\DemoDeligate1.exe.config
+C:\Users\Dell\source\repos\DemoDeligate1\bin\Debug\DemoDeligate1.exe
+C:\Users\Dell\source\repos\DemoDeligate1\bin\Debug\DemoDeligate1.pdb
+C:\Users\Dell\source\repos\DemoDeligate1\obj\Debug\DemoDeligate1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DemoDeligate1\obj\Debug\DemoDeligate1.exe
+C:\Users\Dell\source\repos\DemoDeligate1\obj\Debug\DemoDeligate1.pdb

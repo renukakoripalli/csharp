@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <h1>Employee</h1>
+    <table border="1">
+        <tr>
+            <td>    Id   </td>
+            <td>   Name      </td>
+            <td>      Email   </td>
+            <td>      Dept     </td>
+        </tr>
+        <tr>
+            <td>    @ViewData["id"]  </td>
+            <td>   @ViewData["name"]     </td>
+            <td>       @ViewData["email"]    </td>
+            <td>        @ViewData["dept"]      </td>
+        </tr>
+    </table>
+</body>
+</html>

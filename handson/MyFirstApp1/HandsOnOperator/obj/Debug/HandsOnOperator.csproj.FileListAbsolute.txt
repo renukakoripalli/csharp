@@ -1,0 +1,6 @@
+E:\renu\handson\MyFirstApp1\HandsOnOperator\bin\Debug\HandsOnOperator.exe.config
+E:\renu\handson\MyFirstApp1\HandsOnOperator\bin\Debug\HandsOnOperator.exe
+E:\renu\handson\MyFirstApp1\HandsOnOperator\bin\Debug\HandsOnOperator.pdb
+E:\renu\handson\MyFirstApp1\HandsOnOperator\obj\Debug\HandsOnOperator.csprojAssemblyReference.cache
+E:\renu\handson\MyFirstApp1\HandsOnOperator\obj\Debug\HandsOnOperator.exe
+E:\renu\handson\MyFirstApp1\HandsOnOperator\obj\Debug\HandsOnOperator.pdb

@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "SellerBuyer";
+}
+
+<h1>LOGIN AS.......!</h1>
+
+
+<hr>
+<div class="container">
+    <div class="row justify-content-around">
+        <div class="col-4">
+
+            @*<p>Add the .stretched-link class to a link inside the card, and it will make the whole card clickable (the card will act as a link):</p>*@
+            <div class="card" style="width:200px">
+                <img class="card-img-top" src="~/Images/seller.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    @*<h4 class="card-title">Buyer</h4>*@
+                    <center>
+                        <a asp-action="BuyerLogin" asp-controller="Emart" class="btn btn-primary stretched-link">Buyer</a>
+                    </center>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-4">
+
+            @*<p>Add the .stretched-link class to a link inside the card, and it will make the whole card clickable (the card will act as a link):</p>*@
+            <div class="card" style="width:200px">
+                <img class="card-img-top" src="~/Images/buyer.jpg" alt="Card image" style="width:100%">
+                <div class="card-body">
+                    @*<h4 class="card-title">Seller</h4>*@
+                    <center>
+                        <a asp-action="SellerLogin" asp-controller="Emart" class="btn btn-primary stretched-link">Seller</a>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

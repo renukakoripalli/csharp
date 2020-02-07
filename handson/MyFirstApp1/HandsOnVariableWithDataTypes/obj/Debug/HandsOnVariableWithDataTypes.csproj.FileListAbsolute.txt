@@ -1,0 +1,6 @@
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\bin\Debug\HandsOnVariableWithDataTypes.exe.config
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\bin\Debug\HandsOnVariableWithDataTypes.exe
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\bin\Debug\HandsOnVariableWithDataTypes.pdb
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\obj\Debug\HandsOnVariableWithDataTypes.csprojAssemblyReference.cache
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\obj\Debug\HandsOnVariableWithDataTypes.exe
+E:\renu\handson\MyFirstApp1\HandsOnVariableWithDataTypes\obj\Debug\HandsOnVariableWithDataTypes.pdb

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function validate() {
+            if (document.myform.Name.value == "") {
+                alert("Please provide your name!");
+                document.myform.Name.focus();
+                return false;
+            }
+            if (document.myform.Email.value == "") {
+                alert("Please provide your Email!");
+                document.myform.Email.focus();
+                return false;
+            }
+
+            if (document.myform.Zip.value == "" || isNaN(document.myform.Zip.value)||
+                    (document.myform.Zip.value.length != 5)) {
+                alert("Please provide a zip in the format####");
+                document.myform.Zip.focus();
+                return false;
+            }
+            if (document.myform.Country.value == "-1") {
+                alert("Please provide your country!");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <form name="myform" onsubmit="return (validate());">
+        <table cellspacing="2" cellpadding="2" border="1">
+            <tr>
+                <td align="right">Name</td>
+                <td><input type="text" name="Name" /></td>
+            </tr>
+            <tr>
+                <td align="right">Email</td>
+                <td><input type="email" name="Email" /></td>
+            </tr>
+            <tr>
+                <td align="right">Zip code</td>
+                <td><input type="text" name="Zip" /></td>
+            </tr>
+            <tr>
+                <td align="right">Country</td>
+                <td>
+                    <select name="Country">
+                        <option value="-1" selected>[choose yours]</option>
+                        <option value="1">USA</option>
+                        <option value="2">UK</option>
+                        <option value="3">INDIA</option>
+                    </select>
+                </td>
+
+            </tr>
+            <tr>
+                <td align="right"></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

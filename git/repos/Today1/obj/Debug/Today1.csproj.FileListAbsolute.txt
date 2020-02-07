@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Today1\obj\Debug\Today1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Today1\bin\Debug\Today1.exe.config
+C:\Users\Dell\source\repos\Today1\bin\Debug\Today1.exe
+C:\Users\Dell\source\repos\Today1\bin\Debug\Today1.pdb
+C:\Users\Dell\source\repos\Today1\obj\Debug\Today1.exe
+C:\Users\Dell\source\repos\Today1\obj\Debug\Today1.pdb

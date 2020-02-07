@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\bin\Debug\HandsOnGenerics.exe.config
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\bin\Debug\HandsOnGenerics.exe
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\bin\Debug\HandsOnGenerics.pdb
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\obj\Debug\HandsOnGenerics.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\obj\Debug\HandsOnGenerics.exe
+C:\Users\Dell\source\repos\HandsOnGenerics\HandsOnGenerics\obj\Debug\HandsOnGenerics.pdb

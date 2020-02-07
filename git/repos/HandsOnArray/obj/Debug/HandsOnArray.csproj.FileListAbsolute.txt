@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnArray\bin\Debug\HandsOnArray.exe.config
+C:\Users\Dell\source\repos\HandsOnArray\bin\Debug\HandsOnArray.exe
+C:\Users\Dell\source\repos\HandsOnArray\bin\Debug\HandsOnArray.pdb
+C:\Users\Dell\source\repos\HandsOnArray\obj\Debug\HandsOnArray.exe
+C:\Users\Dell\source\repos\HandsOnArray\obj\Debug\HandsOnArray.pdb
+C:\Users\Dell\source\repos\HandsOnArray\obj\Debug\HandsOnArray.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DemoPartial\bin\Debug\DemoPartial.exe.config
+C:\Users\Dell\source\repos\DemoPartial\bin\Debug\DemoPartial.exe
+C:\Users\Dell\source\repos\DemoPartial\bin\Debug\DemoPartial.pdb
+C:\Users\Dell\source\repos\DemoPartial\obj\Debug\DemoPartial.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DemoPartial\obj\Debug\DemoPartial.exe
+C:\Users\Dell\source\repos\DemoPartial\obj\Debug\DemoPartial.pdb

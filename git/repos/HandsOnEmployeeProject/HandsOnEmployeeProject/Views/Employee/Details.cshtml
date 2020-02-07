@@ -1,0 +1,8 @@
+﻿@model HandsOnEmployeeProject.Models.Employee
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Welcome @Html.DisplayFor(m => m.EmpName)</h1>
+@Html.ActionLink("Logout", "Login", "Employee")
